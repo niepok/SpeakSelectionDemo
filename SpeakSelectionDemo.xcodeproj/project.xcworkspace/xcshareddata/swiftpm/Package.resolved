@@ -1,0 +1,16 @@
+{
+  "object": {
+    "pins": [
+      {
+        "package": "Mimus",
+        "repositoryURL": "https://github.com/mimus-swift/Mimus",
+        "state": {
+          "branch": "master",
+          "revision": "fca9cd6ac22e08ac397c4ab4415fe849bd377cc8",
+          "version": null
+        }
+      }
+    ]
+  },
+  "version": 1
+}
